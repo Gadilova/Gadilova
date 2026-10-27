@@ -21,8 +21,8 @@
 <td width="60%" valign="top">
 
 - 🎓 **M.S. student in Applied Artificial Intelligence** @ Astana IT University
-- 🏭 **Ex-Software Engineering / Digital Intern** @ Tengizchevroil — C# and Angular
-- 🤖 Interested in **Machine Learning**, **Data Science** and **Python backends**
+- 🏭 **Digital Intern** @ Tengizchevroil — C# and Angular
+- 🤖 Interested in  **Python backends**
 - 🖥️ Building responsive web interfaces with **React** and **JavaScript**
 - 🌱 Now exploring **NLP, LLMs** and **cloud**
 - 📍 Astana, Kazakhstan 🇰🇿
