@@ -53,8 +53,7 @@
 |---|---------|--------------|-------|
 | 🏙️ | [**smart-city**](https://github.com/Gadilova/smart-city) | Real-time city dashboard for Almaty: sensor map, live weather and air quality, citizen reports | Python · FastAPI · SQLite · Leaflet · Chart.js |
 | 🏠 | [**apartment-price-predictor**](https://github.com/Gadilova/apartment-price-predictor) | REST API that predicts apartment prices with machine learning | Python · FastAPI · scikit-learn · Pandas |
-| ✈️ | [**flight-app2**](https://github.com/Gadilova/flight-app2) | Flight app built with React | React · JavaScript |
-| 🎬 | [**movie-app**](https://github.com/Gadilova/movie-app) | Movie app in vanilla JavaScript | HTML · CSS · JavaScript |
+| 🎬 | [**movie-app**](https://github.com/Gadilova/movie-app) | Popular movies and search via Kinopoisk API, no frameworks | HTML · CSS · JavaScript |
 
 ## 📊 GitHub stats
 
